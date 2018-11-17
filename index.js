@@ -23,5 +23,5 @@ function destructivelyRemoveFirstKitten(name){
 }
 
 function appendKitten(name){
-  rturn kittens [...kittens, name]
+  rturn [...kittens, name]
 }
